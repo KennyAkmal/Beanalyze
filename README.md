@@ -1,4 +1,4 @@
-<h1 align="center">🌱 Beanalyze: Capstone project</h1>
+<h1 align="center">🌱 Beanalyze: Capstone Project</h1>
 <p>Beanalyze is an application made to make it easier for farmers to analyse diseases in plants, especially beans.</p>
 
 ###
